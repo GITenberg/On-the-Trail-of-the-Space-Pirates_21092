@@ -1,0 +1,51 @@
+_repo: On-the-Trail-of-the-Space-Pirates_21092
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Ley, Willy
+    birthdate: 1906
+    deathdate: 1969
+    gutenberg_agent_id: '36959'
+    url: http://www.gutenberg.org/2009/agents/36959
+    wikipedia: http://en.wikipedia.org/wiki/Willy_Ley
+  illustrator:
+    agent_name: Glanzman, Louis
+    gutenberg_agent_id: '8082'
+    url: http://www.gutenberg.org/2009/agents/8082
+covers:
+- cover_type: archival
+  image_path: 21092-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rockwell, Carey
+    gutenberg_agent_id: '8081'
+    url: http://www.gutenberg.org/2009/agents/8081
+description: Carey Rockwell is the pseudonym used for the author of the Tom Corbet
+  Space Cadet series of books written for young boys. This 1950's series included
+  books, comic strips, coloring books and television shows. The Tom Corbett space
+  series consists of eight books, which may have been based on the novel Space Cadet
+  by Robert Heinlein. The series follows the adventures of Tom and his friend Roger
+  as they train to be members of the Solar Guard. The stories center around the academy,
+  the bunkroom and their training ship Polaris. Their adventures take them to alien
+  worlds in our solar syst.
+gutenberg_bookshelf:
+- Pirates, Buccaneers, Corsairs, etc.
+- Science Fiction
+gutenberg_issued: '2007-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21092'
+  lccn: '53002256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Corbett, Tom (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Astronauts -- Juvenile fiction'
+- !lcsh 'Interplanetary voyages -- Juvenile fiction'
+title: On the Trail of the Space Pirates
+url: http://www.gutenberg.org/ebooks/21092
